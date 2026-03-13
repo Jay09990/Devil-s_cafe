@@ -7,7 +7,7 @@ export default function SEOSchema() {
         "name": "Devil's Den Cafe",
         "alternateName": "Devils Den Cafe",
         "description": "Devil's Den Cafe is Motera's premier late-night destination. Signature Peri Peri Burgers, 4 Cheese Pizza, specialty brews and outdoor patio. Open till 2AM.",
-        "url": "https://www.devilsdencafe.in",
+        "url": "https://devil-s-cafe.vercel.app",
         "telephone": ["+917016418940", "+917228861002"],
         "priceRange": "₹₹",
         "currenciesAccepted": "INR",
@@ -16,7 +16,7 @@ export default function SEOSchema() {
             "American", "Italian", "Continental",
             "Mexican", "Coffee"
         ],
-        "hasMenu": "https://www.devilsdencafe.in/#menu",
+        "hasMenu": "https://devil-s-cafe.vercel.app/#menu",
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "GF 8A, Sangath Central Mall, Behind 4D Mall, Visat Gandhinagar Highway",
@@ -101,14 +101,13 @@ export default function SEOSchema() {
             { "@type": "LocationFeatureSpecification", "name": "Air Conditioning", "value": true }
         ],
         "image": [
-            "https://www.devilsdencafe.in/images/hero_burger.jpg",
-            "https://www.devilsdencafe.in/images/og-cover.jpg"
+            "https://devil-s-cafe.vercel.app/images/hero_burger.jpg"
         ],
         "sameAs": [
             "https://instagram.com/devilsdencafe",
-            "https://www.zomato.com/ahmedabad/devils-den-motera",
-            "https://www.swiggy.com/restaurants/devils-den-motera",
-            "https://www.google.com/maps?cid=YOUR_GOOGLE_CID"
+            "https://www.zomato.com/ahmedabad/devils-den-motera-1",
+            "https://www.swiggy.com/city/ahmedabad/devils-cafe-motera-rest588401",
+            "https://www.google.com/maps/place/Devil's+Cafe-+Best+Cafe+In+Motera"
         ]
     }
 

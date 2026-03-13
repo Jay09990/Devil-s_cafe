@@ -144,6 +144,7 @@ export const STATS = [
 ]
 
 export const MATCH_DAY = {
-  isActive: false,  // toggle this manually
+  isActive: false,
+  matchDate: null,   // Set to "2026-03-15" on match days — auto-expires after that date
   matchName: "INDIA VS AUSTRALIA"
 }

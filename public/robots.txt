@@ -6,6 +6,7 @@ Allow: /
 Disallow: /api/
 Disallow: /_dev/
 Disallow: /admin/
+Disallow: /_vercel/
 
 # Individual bot rules
 User-agent: Googlebot
@@ -30,4 +31,4 @@ User-agent: MJ12bot
 Disallow: /
 
 # Sitemap location — critical for fast indexing
-Sitemap: https://www.devilsdencafe.in/sitemap.xml
+Sitemap: https://devil-s-cafe.vercel.app/sitemap.xml

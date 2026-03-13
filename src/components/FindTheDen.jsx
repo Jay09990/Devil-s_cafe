@@ -112,21 +112,6 @@ export default function FindTheDen() {
 
                 {/* Right Content - Map */}
                 <div ref={mapRef} className="flex-1 w-full h-[400px] md:h-auto min-h-[450px] border border-[#FF4500]/20 rounded-[8px] overflow-hidden shadow-[0_0_30px_rgba(255,69,0,0.1)] relative">
-                    {/* <iframe
-                        title="Devil's Den Cafe Location"
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3669.721471375685!2d72.59366947590807!3d23.102306279119283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e83962aebe93b%3A0x4d174e0a24611c10!2sDevil's%20Cafe!5e0!3m2!1sen!2sin!4v1710343821000!5m2!1sen!2sin&iwloc="
-                        width="100%"
-                        height="100%"
-                        style={{
-                            border: 0,
-                            filter: 'invert(90%) hue-rotate(180deg) contrast(100%) grayscale(0.2)'
-                        }}
-                        allowFullScreen
-                        loading="lazy"
-                        referrerPolicy="no-referrer-when-downgrade"
-                        className="absolute inset-0"
-                    ></iframe> */}
-
                     <iframe
                         title="Devil's Den Cafe Location"
                         src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7040.509797231276!2d72.60140065527807!3d23.106421207786752!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e83962aebe93b%3A0x4d174e0af0611c50!2sDevil&#39;s%20Cafe-%20Best%20Cafe%20In%20Motera%20%7C%20Coffee%20Shop%20In%20Motera%20%7C%20Burger%20Shop%20In%20Motera!5e0!3m2!1sen!2sin!4v1773396030839!5m2!1sen!2sin&iwloc="

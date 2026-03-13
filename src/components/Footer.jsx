@@ -16,10 +16,10 @@ export default function Footer() {
                     <a href={BRAND.social.instagram} target="_blank" rel="noreferrer" className="text-[#A0A0A0] hover:text-[#FF4500] transition-colors font-body text-[12px] uppercase">
                         Instagram
                     </a>
-                    <a href="#" className="text-[#A0A0A0] hover:text-[#FF4500] transition-colors font-body text-[12px] uppercase">
+                    <a href="https://www.zomato.com/ahmedabad/devils-den-motera-1" target="_blank" rel="noreferrer" className="text-[#A0A0A0] hover:text-[#FF4500] transition-colors font-body text-[12px] uppercase">
                         Zomato
                     </a>
-                    <a href="#" className="text-[#A0A0A0] hover:text-[#FF4500] transition-colors font-body text-[12px] uppercase">
+                    <a href="https://www.swiggy.com/city/ahmedabad/devils-cafe-motera-rest588401" target="_blank" rel="noreferrer" className="text-[#A0A0A0] hover:text-[#FF4500] transition-colors font-body text-[12px] uppercase">
                         Swiggy
                     </a>
                 </div>

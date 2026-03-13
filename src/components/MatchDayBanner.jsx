@@ -4,8 +4,9 @@ import { MATCH_DAY } from '../constants';
 export default function MatchDayBanner() {
     const [isVisible, setIsVisible] = useState(true);
 
-    // This could be tied to an API or hook. For now, we simulate a match day.
-    const isMatchDay = MATCH_DAY.isActive;
+    // Auto-expires after the match date
+    const today = new Date().toISOString().split('T')[0];
+    const isMatchDay = MATCH_DAY.isActive && (!MATCH_DAY.matchDate || MATCH_DAY.matchDate >= today);
 
     if (!isMatchDay || !isVisible) return null;
 
