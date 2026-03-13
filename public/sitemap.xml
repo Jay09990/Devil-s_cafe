@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.devilsdencafe.in/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Image sitemaps — tells Google about your food photos -->
+    <image:image>
+      <image:loc>https://www.devilsdencafe.in/images/hero_burger.jpg</image:loc>
+      <image:title>Devil's Den Cafe — Peri Peri Burger, Motera Ahmedabad</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.devilsdencafe.in/images/four_cheese_pizza.jpg</image:loc>
+      <image:title>4 Cheese Pizza — Devil's Den Cafe, Motera</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.devilsdencafe.in/images/mexican_sandwich.jpg</image:loc>
+      <image:title>3-Tier Mexican Sandwich — Devil's Den Cafe</image:title>
+    </image:image>
+  </url>
+</urlset>

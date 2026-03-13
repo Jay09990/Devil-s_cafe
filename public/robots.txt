@@ -1,0 +1,33 @@
+# Allow all major search engine crawlers
+User-agent: *
+Allow: /
+
+# Disallow dev/internal paths if they exist
+Disallow: /api/
+Disallow: /_dev/
+Disallow: /admin/
+
+# Individual bot rules
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Block bad/scraper bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+# Sitemap location — critical for fast indexing
+Sitemap: https://www.devilsdencafe.in/sitemap.xml
