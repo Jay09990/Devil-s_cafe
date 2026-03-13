@@ -1,11 +1,11 @@
-# 👹 Devil's Cafe — The Den Never Sleeps
+# 👹 Devil's Den Cafe — The Den Never Sleeps
 
-A premium, production-ready **Digital Hub** for Devil's Cafe, Motera. This isn't just a restaurant website; it's a high-performance, cyberpunk-infused digital identity designed to dominate the late-night economy of North Ahmedabad.
+A premium, production-ready **Digital Hub** for Devil's Den Cafe, Motera. This isn't just a restaurant website; it's a high-performance, cyberpunk-infused digital identity designed to dominate the late-night economy of North Ahmedabad.
 
 ---
 
 ## ⚡ Core Philosophy
-Devil's Cafe is built on a **Cyberpunk-Noir** aesthetic—dark, moody, and intense. It is engineered for speed, premium user experience, and absolute search engine dominance.
+Devil's Den Cafe is built on a **Cyberpunk-Noir** aesthetic—dark, moody, and intense. It is engineered for speed, premium user experience, and absolute search engine dominance.
 
 ## 🛠️ Tech Stack
 - **Frontend Framework**: [React 19](https://react.dev/) + [Vite](https://vitejs.dev/)
@@ -62,7 +62,7 @@ A real-time logic engine that reflects the Cafe's late-night status (Open 9:00 A
 ---
 
 ## 📍 Location
-**Devil's Cafe**
+**Devil's Den Cafe**
 GF 8A, Sangath Central Mall,
 Behind 4D Mall, Motera,
 Ahmedabad, Gujarat 380005.
@@ -73,4 +73,4 @@ Ahmedabad, Gujarat 380005.
 This project was developed with a "Zero Backend" philosophy for the first phase, prioritizing speed, free deployment (Vercel/Netlify), and WhatsApp-driven customer interaction.
 
 ---
-© 2026 Devil's Cafe. Built for the late-night denizens of Motera.
+© 2026 Devil's Den Cafe. Built for the late-night denizens of Motera.

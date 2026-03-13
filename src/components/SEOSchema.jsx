@@ -4,9 +4,9 @@ export default function SEOSchema() {
     const schema = {
         "@context": "https://schema.org",
         "@type": "CafeOrCoffeeShop",
-        "name": "Devil's Cafe",
-        "alternateName": "Devils Cafe",
-        "description": "Motera's premier late-night cafe. Signature Peri Peri Burgers, 4 Cheese Pizza, specialty brews and outdoor patio. Open till 2AM.",
+        "name": "Devil's Den Cafe",
+        "alternateName": "Devils Den Cafe",
+        "description": "Devil's Den Cafe is Motera's premier late-night destination. Signature Peri Peri Burgers, 4 Cheese Pizza, specialty brews and outdoor patio. Open till 2AM.",
         "url": "https://www.devilsdencafe.in",
         "telephone": ["+917016418940", "+917228861002"],
         "priceRange": "₹₹",

@@ -44,7 +44,7 @@ export default function Navbar() {
                             <path d="M12 2L4 10V22H20V10L12 2Z" fill="#FF4500" />
                             <path d="M9 14H15V16H9V14Z" fill="#0D0D0D" />
                         </svg>
-                        <span className="font-display font-bold text-white text-lg tracking-wider">DEVIL'S CAFE</span>
+                        <span className="font-display font-bold text-white text-lg tracking-wider">DEVIL'S DEN CAFE</span>
                     </div>
 
                     {/* Desktop Nav */}

@@ -95,7 +95,7 @@ export default function Hero() {
                 <div className="absolute inset-0 bg-[#1A1A1B] animate-pulse"></div>
                 <img
                     src="/images/hero_burger.jpg"
-                    alt="Devil's Cafe Signature Burger"
+                    alt="Devil's Den Cafe Signature Burger"
                     className="w-full h-full object-cover object-center relative z-10"
                     fetchpriority="high"
                     onError={(e) => { e.target.style.display = 'none'; }}

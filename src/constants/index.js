@@ -1,5 +1,5 @@
 export const BRAND = {
-    name: "Devil's Cafe",
+    name: "Devil's Den Cafe",
     tagline: "The Den Never Sleeps",
     subTagline:
         "Motera's anchor establishment for burgers, " +
@@ -19,7 +19,7 @@ export const BRAND = {
     social: {
         instagram: "https://instagram.com/devilsdencafe"
     },
-    mapsUrl: "https://maps.google.com/?q=Devil's+Cafe+Motera+Ahmedabad",
+    mapsUrl: "https://maps.google.com/?q=Devil's+Den+Cafe+Motera+Ahmedabad",
     coords: { lat: "23.1003", lng: "72.5870" }
 }
 

@@ -63,7 +63,7 @@ export default function FindTheDen() {
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M12 2L4 10V22H20V10L12 2Z" fill="#FF4500" />
                         </svg>
-                        <h2 className="font-display font-bold text-[32px] text-white">DEVIL'S CAFE</h2>
+                        <h2 className="font-display font-bold text-[32px] text-white">DEVIL'S DEN CAFE</h2>
                     </div>
 
                     <p className="font-body font-light text-[14px] text-[#A0A0A0] mb-12">
